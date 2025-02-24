@@ -30,7 +30,6 @@
         <button class="btn-print" onclick="window.print()">Print Program</button>
     </div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
-    <script src="scripts.js"></script>
+    
 </body>
 </html>
